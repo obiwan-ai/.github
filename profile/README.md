@@ -1,3 +1,3 @@
-# Official Repo of Obiwan AI
+# Official GitHub Page of Obiwan AI
 
 More details coming soon!!!
